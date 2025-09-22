@@ -1,4 +1,4 @@
-# Miuul Data Science Bootcamp
+# Data Science Bootcamp
 
 ## Week 1: 
 Çalışma Ortamı Ayarları, Veri Yapıları, Fonksiyonlar, Koşullar & Döngüler, Comprehensions
